@@ -1,0 +1,9 @@
+name: Fly Command
+author: ZoRa
+api: 4.0.0
+main: Fly\Zora\Main
+version: 1.0.0
+
+permissions:
+  fly.command:
+    default: op

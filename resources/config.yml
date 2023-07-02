@@ -1,0 +1,5 @@
+fly-message: "§aLe mode de vol pour le joueur {player} a été {status}."
+fly-status-true: "§aactivé"
+fly-status-false: "§cdésactivé"
+can-you-fly-message: "§aVous avez le mode vole {status}."
+player-not-online-message: "§cLe joueur spécifié n'est pas en ligne."
